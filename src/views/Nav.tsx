@@ -1,5 +1,5 @@
 import React from 'react';
-import { IStyleSet, Label, ILabelStyles, Pivot, PivotItem } from '@fluentui/react';
+import { Pivot, PivotItem } from '@fluentui/react';
 import Solver from './Solver';
 import Map from './Map';
 import About from './About';
